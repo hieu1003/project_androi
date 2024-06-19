@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays" >
+        <item>Chủ \nNhật</item>
+        <item>Thứ \nHai</item>
+        <item>Thứ \nBa</item>
+        <item>Thứ \nTư</item>
+        <item>Thứ \nNăm</item>
+        <item>Thứ \nSáu</item>
+        <item>Thứ \nBảy</item>
+    </string-array>
+</resources>
