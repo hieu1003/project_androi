@@ -10,8 +10,8 @@ import androidx.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
 
-import phcom.edu.lichvannien.model.ItemDay;
-import phcom.edu.lichvannien.model.event;
+import com.example.project_androi.model.ItemDay;
+import com.example.project_androi.model.event;
 
 public class databaseEvent extends SQLiteOpenHelper {
 

@@ -21,12 +21,12 @@ import com.google.android.material.timepicker.TimeFormat;
 
 import java.util.Calendar;
 
-import phcom.edu.lichvannien.R;
+import com.example.project_androi.R;
 import phcom.edu.lichvannien.databaseEvent;
-import phcom.edu.lichvannien.databinding.ActivityAddEventBinding;
-import phcom.edu.lichvannien.model.AlarmReceiver;
-import phcom.edu.lichvannien.model.ItemDay;
-import phcom.edu.lichvannien.model.event;
+import com.example.project_androi.databinding.ActivityAddEventBinding;
+import com.example.project_androi.model.AlarmReceiver;
+import com.example.project_androi.model.ItemDay;
+import com.example.project_androi.model.event;
 
 public class AddEventActivity extends AppCompatActivity {
 

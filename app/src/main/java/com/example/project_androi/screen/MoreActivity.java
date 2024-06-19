@@ -6,8 +6,8 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import phcom.edu.lichvannien.R;
-import phcom.edu.lichvannien.databinding.ActivityMoreBinding;
+import com.example.project_androi.R;
+import com.example.project_androi.databinding.ActivityMoreBinding;
 
 public class MoreActivity extends AppCompatActivity {
     ActivityMoreBinding binding;

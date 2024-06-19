@@ -11,8 +11,8 @@ import android.widget.TextView;
 import java.util.Calendar;
 import java.util.List;
 
-import phcom.edu.lichvannien.R;
-import phcom.edu.lichvannien.model.ItemDay;
+import com.example.project_androi.R;
+import com.example.project_androi.model.ItemDay;
 
 public class CalendarAdapter extends BaseAdapter {
     private Context mContext;

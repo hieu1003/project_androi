@@ -9,7 +9,7 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.TextView;
 
-import phcom.edu.lichvannien.R;
+import com.example.project_androi.R;
 
 public class WeekdayAdapter extends BaseAdapter {
     private Context mContext;

@@ -9,9 +9,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
 
-import phcom.edu.lichvannien.R;
-import phcom.edu.lichvannien.databinding.ItemEventBinding;
-import phcom.edu.lichvannien.model.event;
+import com.example.project_androi.R;
+import com.example.project_androi.databinding.ItemEventBinding;
+import com.example.project_androi.model.event;
 
 public class adapterEvent extends RecyclerView.Adapter<adapterEvent.ViewHolder> {
 
